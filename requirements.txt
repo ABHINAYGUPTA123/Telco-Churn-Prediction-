@@ -5,3 +5,5 @@ numpy>=1.9.2
 pandas>=0.19
 matplotlib>=1.4.3
 seaborn==0.11.1
+imblearn==0.8.0
+lime==0.1
